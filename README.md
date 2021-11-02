@@ -1,1 +1,1 @@
-# some Basic CI-CD examples using Jenkins
+# some Basic CI/CD flow using Jenkinsfile
